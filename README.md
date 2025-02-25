@@ -9,7 +9,7 @@ The OWASP AppSec Browser Bundle marks the beginning of a new webapp security tes
 
 Included Tools
 ====
-    Intercepting Proxy - OWASP ZAP
+    Intercepting Proxy - ZAP
     Intercepting Proxy - OWASP WebScarab
     Vulnerability Scanner - Nikto
     Brute Forcer - OWASP WebSlayer
